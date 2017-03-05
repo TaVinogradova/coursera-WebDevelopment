@@ -1,0 +1,55 @@
+#header{	
+border: 3px solid black;
+background-color: silver;
+}
+
+.navbar-header{	
+padding: 10px;
+margin: 10px;
+}
+
+#home-menu h1{
+display: inline;
+
+}
+
+#home-menu a{
+text-decoration: none;
+text-align: center;
+color: black;
+}
+
+
+#nav-list a {
+  color: black;
+  text-align: center;
+  font-size: 1.2em;
+}
+
+#nav-list a:hover {
+  background: white;
+  color: black;
+}
+
+.row section{
+background-color: silver;
+padding: 10px;
+margin: 10px;
+}
+
+.row .title{
+font-size: 2em;
+margin-bottom: 10px;
+text-align: center;
+color: black;
+}
+
+.MenuTitle{
+font-size: 2em;
+font-weight: bold;
+margin: 10px auto 15px;
+}
+
+.row a{
+font-size: 1.2em;
+}
